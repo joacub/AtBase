@@ -13,7 +13,10 @@
         }
     ],
     "require": {
-        "zendframework/zendframework": "2.*"
+        "zendframework/zendframework": "2.*",
+        "slm/locale": "*",
+		"joacub/joacub-countries-flags": "*"
+		"joacub/dlutwbootstrap": "*"
     },
     "autoload": {
         "psr-0": {
