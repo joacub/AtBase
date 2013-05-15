@@ -15,7 +15,7 @@
     "require": {
         "zendframework/zendframework": "2.*",
         "slm/locale": "*",
-		"joacub/joacub-countries-flags": "*"
+		"joacub/joacub-countries-flags": "*",
 		"joacub/dlutwbootstrap": "*"
     },
     "autoload": {
